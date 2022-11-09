@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(206, 66, 148);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#no2{
+    color: rgb(28, 28, 231);
+    font-size: 36px;
+}
+#no4{
+    background-color: rgb(141, 216, 141);
+    font-size: 24px;
+    font-weight: bold;
+}
+.odd.cooler{
+    font-size: 24px;
+}
